@@ -33,3 +33,8 @@ AI-powered tool to analyze digital footprint, generate a ghost profile, and prov
 
 ## 👨‍💻 Author
 Balaji Tummala
+## 📸 Screenshots
+
+![Dashboard](assets/dashboard.png)
+![Flow](assets/flow.png)
+![Mockups](assets/mockups.png)
